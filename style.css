@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    
+}
+h1{
+     text-align: center;
+     color: rgb(78, 26, 26);
+     font-family: 'Squada One', cursive;
+     background-color:rgb(148, 143, 143);
+ }
+  body{
+background-color:darkgrey;
+  }
